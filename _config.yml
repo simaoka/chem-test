@@ -1,4 +1,4 @@
-title: Sheldon Chem
+title: HS Chem
 description: A starter template for chemistry
 theme: just-the-docs
 
@@ -13,5 +13,5 @@ color_scheme: dark
 footer_content: "Copyright &copy; 2026 Shannon Imaoka. Distributed by <a href=\"https://creativecommons.org/licenses/by-nc/4.0/deed.en\">CC-BY-NC license</a>"
 
 aux_links:
-  YouTube: 
+  YouTube Channel: 
     - http://www.youtube.com/@shannonimaoka
