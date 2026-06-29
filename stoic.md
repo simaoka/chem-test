@@ -1,6 +1,5 @@
 ---
 title: Stoichometry
-layout: default
 nav_order: 2
 ---
 
