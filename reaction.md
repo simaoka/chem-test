@@ -1,6 +1,5 @@
 ---
 title: Reaction
-layout: default
 parent: Stoichometry
 nav_order: 1
 ---
