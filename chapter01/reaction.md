@@ -1,7 +1,7 @@
 ---
 title: Reaction
 parent: Stoichometry
-nav_order: 2
+nav_order: 1
 ---
 
 What kind of reaction
