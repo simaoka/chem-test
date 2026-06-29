@@ -1,5 +1,5 @@
 ---
-title: Alchemy
+title: Lesson 2: Alchemy
 layout: default
 nav_order: 3
 ---
