@@ -9,4 +9,5 @@ compress_html:
 url: https://github.com/simaoka
 
 aux_links:
-  YouTube: http://www.youtube.com/@shannonimaoka
+  YouTube: 
+    - http://www.youtube.com/@shannonimaoka
