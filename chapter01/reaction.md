@@ -1,8 +1,8 @@
 ---
 title: Reaction
-parent: Stoichimetry
+parent: Stoichometry
 nav_order: 2
 ---
 
 What kind of reaction
-$H_2O = 2H_2 + O_2$
+$C_{24}$
