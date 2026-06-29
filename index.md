@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: mathjax
+layout: home
 ---
 
 
