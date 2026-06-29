@@ -5,4 +5,4 @@ layout: default
 nav_order: 1
 ---
 
-Complex equations like $1 x 10^23 \frac{kg}{m^3}$
+Complex equations like $1 \text{ x } 10^{23} \frac{kg}{m^3}$
