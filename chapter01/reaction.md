@@ -1,6 +1,6 @@
 ---
 title: Reaction
-parent: Stoichimoetry
+parent: Stoichimetry
 nav_order: 2
 ---
 
