@@ -4,11 +4,10 @@ layout: default
 nav_order: 1
 ---
 
-
-Here's a new post
-
+# This is showing capabilities of using GitHub for documentation
+Lots of cool things
 *Italics*
-
 **Bold**
 
-$H_2O$
+## Here we can also add math (via LaTeX):
+$2H_2O = 4H + O_2$
