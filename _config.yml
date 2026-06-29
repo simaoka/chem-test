@@ -1,6 +1,7 @@
 title: Sheldon Chem
 description: A starter template for chemistry
 theme: just-the-docs
+math: mathjax
 
 url: https://github.com/simaoka
 
