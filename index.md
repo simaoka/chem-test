@@ -11,6 +11,3 @@ Here's a new post
 **Bold**
 
 $H_2O$
-
-$$H_2O$$
-
