@@ -1,6 +1,7 @@
 ---
 title: Stoichometry
-nav_order: 1
+layout: default
+nav_order: 2
 ---
 
 Here's another page
